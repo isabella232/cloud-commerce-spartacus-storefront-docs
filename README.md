@@ -1,8 +1,10 @@
 # Spartacus storefront docs
 
-This is the source for Spartacus documentation, which is hosted here:
+This is the source for the old Spartacus documentation site, which was hosted here:
 
 https://sap.github.io/cloud-commerce-spartacus-storefront-docs/
+
+This site now redirects to our current, active Spartacus documentation site: https://sap.github.io/spartacus-docs/
 
 Spartacus is the open source storefront for SAP Commerce Cloud.
 
