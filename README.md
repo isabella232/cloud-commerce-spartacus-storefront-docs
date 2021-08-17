@@ -1,5 +1,7 @@
 # Spartacus storefront docs
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/cloud-commerce-spartacus-storefront-docs)](https://api.reuse.software/info/github.com/SAP/cloud-commerce-spartacus-storefront-docs)
+
 This is the source for the old Spartacus documentation site, which was hosted here:
 
 https://sap.github.io/cloud-commerce-spartacus-storefront-docs/
